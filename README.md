@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @claumenezes, Talent Acquisition Manager, passionate about tech and exec recruitment
-- 👀 I’m interested in ... new techniques for nailed into tech recruitment
-- 🌱 I’m currently learning ...same above
+- 👀 I’m interested in ... new techniques to nail tech recruitment
 - 📫 How to reach me ...https://www.linkedin.com/in/claudia-menezes/
 
 <!---
